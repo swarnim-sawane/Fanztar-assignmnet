@@ -7,7 +7,7 @@ This is a basic RESTful API for ordering customized mobile devices. It calculate
 
 1. **Clone the respository using this command:**
     ```
-    git clone 
+    git clone https://github.com/swarnim-sawane/Fanztar-assignmnet.git
     ```
 
 2. **Install Flask using pip in your environment:**
